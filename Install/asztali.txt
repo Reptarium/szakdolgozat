@@ -1,0 +1,1 @@
+Az asztali alkalmazás telepítéséhez a c# mappán belül található setup.exe fájl futtatása szükséges!

@@ -1,0 +1,3 @@
+Ha nem lehet importálni az sql filet, akkor a következőt kell csinálni:
+C:\xampp\mysql\bin\my.ini
+max_allowed_packet = 1024M

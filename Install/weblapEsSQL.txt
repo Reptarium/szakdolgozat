@@ -1,0 +1,3 @@
+A weblap beüzemeléséhez a PHP mappán belül megtalálható reptarium mappát - feltételezve, hogy fel van telepítve a gépen a XAMPP - a XAMPP mappán belüli htdocs mappába kell bemásolnunk, majd a XAMPP indítása után be kell importálnunk a Database mappában megtalálható reptarium_tablak.sql fájlt.
+Amennyiben nem sikeres az importálás, úgy az sql_importhoz-XAMPP.txt fájl tud ebben segítséget nyújtani.
+Sikeres importálás után - amennyiben fut a XAMPP - a localhost/reptarium elérési úton tekinthetjük meg a weblapot a böngészőben.
